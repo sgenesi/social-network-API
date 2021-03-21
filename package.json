@@ -1,0 +1,26 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "An API for a social network web application",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.1",
+    "save": "^2.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sgenesi/social-network-API.git"
+  },
+  "author": "Staci Genesi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sgenesi/social-network-API/issues"
+  },
+  "homepage": "https://github.com/sgenesi/social-network-API#readme"
+}
